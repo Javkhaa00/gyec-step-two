@@ -7,7 +7,7 @@
   "scripts": {
     "test": "npx jest",
     "start": "npx nicessr start",
-    "build": "npx nicessr build",
+    "build": "npx nicessr build && npx nicessr export",
     "serve": "npx nicessr serve"
   },
   "repository": {
@@ -28,6 +28,6 @@
   "homepage": "https://github.com/zolbooo/gyec-step-two#readme",
   "dependencies": {
     "bulma": "^0.8.2",
-    "nicessr": "^2.6.3"
+    "nicessr": "^2.7.0"
   }
 }
