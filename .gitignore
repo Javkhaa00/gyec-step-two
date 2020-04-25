@@ -109,3 +109,6 @@ out/
 
 # OSX files
 .DS_Store
+
+# Firebase cache
+.firebase
