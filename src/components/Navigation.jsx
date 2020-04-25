@@ -26,7 +26,9 @@ function Navigation() {
       <div id="navbar" class="navbar-menu" ref={menuRef}>
         <div class="navbar-start">
           <a class="navbar-item">Home</a>
-          <a class="navbar-item">Online classes</a>
+          <a href="/classrooms" class="navbar-item">
+            Online classes
+          </a>
           <div class="navbar-item has-dropdown is-hoverable">
             <a class="navbar-link">More</a>
             <div class="navbar-dropdown">
