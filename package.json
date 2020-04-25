@@ -1,0 +1,33 @@
+{
+  "private": true,
+  "name": "gyec-step-two",
+  "version": "1.0.0",
+  "description": "GYEC step 2 landing page",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npx jest",
+    "start": "npx nicessr start",
+    "build": "npx nicessr build",
+    "serve": "npx nicessr serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zolbooo/gyec-step-two.git"
+  },
+  "keywords": [
+    "gyec",
+    "challenge",
+    "landing-page",
+    "javascript"
+  ],
+  "author": "Zolboobayar Gantumur <zolboobayar@nhs.edu.mn>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zolbooo/gyec-step-two/issues"
+  },
+  "homepage": "https://github.com/zolbooo/gyec-step-two#readme",
+  "dependencies": {
+    "bulma": "^0.8.2",
+    "nicessr": "^2.6.2"
+  }
+}
