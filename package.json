@@ -28,6 +28,6 @@
   "homepage": "https://github.com/zolbooo/gyec-step-two#readme",
   "dependencies": {
     "bulma": "^0.8.2",
-    "nicessr": "^2.7.0"
+    "nicessr": "^2.7.1"
   }
 }
