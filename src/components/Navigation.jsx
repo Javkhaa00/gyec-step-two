@@ -25,7 +25,9 @@ function Navigation() {
       </div>
       <div id="navbar" class="navbar-menu" ref={menuRef}>
         <div class="navbar-start">
-          <a class="navbar-item">Home</a>
+          <a href="/" class="navbar-item">
+            Home
+          </a>
           <a href="/classrooms" class="navbar-item">
             Online classes
           </a>
