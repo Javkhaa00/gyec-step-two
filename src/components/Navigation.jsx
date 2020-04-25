@@ -31,7 +31,9 @@ function Navigation() {
             <a class="navbar-link">More</a>
             <div class="navbar-dropdown">
               <a class="navbar-item">AR/VR experiments</a>
-              <a class="navbar-item">Student profiles</a>
+              <a href="/student/profiles" class="navbar-item">
+                Student profiles
+              </a>
               <a class="navbar-item">Ranking</a>
               <hr class="navbar-divider" />
               <a class="navbar-item">Donation/Foundation</a>
