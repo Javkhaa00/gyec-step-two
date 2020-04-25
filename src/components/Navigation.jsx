@@ -6,7 +6,7 @@ function Navigation() {
     <nav class="navbar" role="navigation" aria-label="main navigation">
       <div class="navbar-brand">
         <a class="navbar-item" href="/">
-          <img src={require('@/assets/logo.png')} />
+          <img src={require('@/assets/logo.png')} alt="Nomt logo" />
         </a>
         <a
           role="button"
