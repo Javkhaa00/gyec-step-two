@@ -104,7 +104,8 @@ dist
 .tern-port
 
 # Nicessr output
-.nicessr
+out/
+.nicessr/
 
 # OSX files
 .DS_Store
