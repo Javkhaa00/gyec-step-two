@@ -105,3 +105,6 @@ dist
 
 # Nicessr output
 .nicessr
+
+# OSX files
+.DS_Store
