@@ -29,6 +29,6 @@
   "dependencies": {
     "bulma": "^0.8.2",
     "is-promise": "^2.1.0",
-    "nicessr": "^2.7.7"
+    "nicessr": "^2.7.9"
   }
 }
