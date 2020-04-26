@@ -9,6 +9,9 @@ const title = css`
 function HomePage() {
   return (
     <>
+      <head>
+        <title>Nomt academy</title>
+      </head>
       <Navigation />
       <h1 class={['title', title]}>Welcome to the Nomt academy!</h1>
       <section class="section">

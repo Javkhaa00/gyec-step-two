@@ -25,6 +25,9 @@ export function getInitialProps() {
 function ClassroomsPage({ classrooms }) {
   return (
     <>
+      <head>
+        <title>Classrooms</title>
+      </head>
       <Navigation />
       <section class="section">
         <h1 class="title">Classrooms</h1>
